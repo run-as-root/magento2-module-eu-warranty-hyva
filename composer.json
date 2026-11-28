@@ -5,7 +5,6 @@
     "license": ["OSL-3.0"],
     "version": "0.10.0",
     "require": {
-        "php": "^8.1",
         "run-as-root/module-eu-warranty": "*",
         "hyva-themes/magento2-theme-module": "*"
     },
